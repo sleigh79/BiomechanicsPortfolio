@@ -1,7 +1,7 @@
 # About me
 I am a biomechanist
 
-![](https://github.com/user-attachments/assets/910cd9aa-7f30-4fed-9328-e1535f39b2b3 | width=100)
+![](https://github.com/user-attachments/assets/910cd9aa-7f30-4fed-9328-e1535f39b2b3)
 
 ## Biomechanics and Data Science Projects
 Project overviews.
