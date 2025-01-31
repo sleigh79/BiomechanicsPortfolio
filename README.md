@@ -1,7 +1,7 @@
 # About me
 ![FacultyHeadshotSmall](https://github.com/user-attachments/assets/c294fc01-3193-49e0-8d8f-46cc22b17b5d)
-&nbsp I am a biomechanist <br />
-&nbsp I am learning data science
+&nbsp; I am a biomechanist <br />
+&nbsp; I am learning data science
 
 ## Biomechanics and data science projects
 Project overviews.
