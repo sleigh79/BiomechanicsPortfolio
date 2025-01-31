@@ -1,2 +1,4 @@
 # Steven Leigh
-Biomechanics and data science projects
+## Biomechanics and Data Science Projects
+### Project 1. Basketball Court Positioning
+### Project 2. Baseball Analytics
