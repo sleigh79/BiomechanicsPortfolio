@@ -1,5 +1,6 @@
 # Steven Leigh
 About me.
+
 ![Headshot](https://github.com/sleigh79/BiomechanicsPortfolio/blob/main/Graphs/FacultyHeadshot.jpg)
 
 ## Biomechanics and Data Science Projects
