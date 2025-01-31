@@ -1,2 +1,3 @@
-name: My Site
-theme: minima
+theme: jekyll-theme-minimal
+title: Biomechanics Project Portfolio
+description: Biomechanics and data science project portfolio
