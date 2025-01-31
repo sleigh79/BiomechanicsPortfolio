@@ -1,5 +1,5 @@
 # Steven Leigh
-<img src="[https://github.com/sleigh79/BiomechanicsPortfolio/blob/main/Graphs/FacultyHeadshot.jpg](https://github.com/sleigh79/BiomechanicsPortfolio/blob/main/Graphs/FacultyHeadshot.jpg)" width="150">
+<img src="https://github.com/sleigh79/BiomechanicsPortfolio/blob/main/Graphs/FacultyHeadshot.jpg" width="150">
 
 ## Biomechanics and Data Science Projects
 Project overviews.
