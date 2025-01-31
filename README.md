@@ -1,7 +1,7 @@
 # Steven Leigh
 About me.
 
-![Headshot](https://github.com/sleigh79/BiomechanicsPortfolio/blob/main/Graphs/FacultyHeadshot.jpg)
+![Headshot](https://github.com/sleigh79/BiomechanicsPortfolio/blob/main/FacultyHeadshot.jpg)
 
 ## Biomechanics and Data Science Projects
 Project overviews.
@@ -16,4 +16,4 @@ Project overviews.
 2. What I did next
 3. What I did third
 
-![Graph](https://github.com/sleigh79/BiomechanicsPortfolio/blob/main/Graphs/TRIsokineticDyna1.jpg)
+![Graph](https://github.com/sleigh79/BiomechanicsPortfolio/blob/main/TRIsokineticDyna1.jpg)
