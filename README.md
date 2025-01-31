@@ -13,3 +13,4 @@ Project overviews.
 1. What I did
 2. What I did next
 3. What I did third
+<img src="https://github.com/sleigh79/BiomechanicsPortfolio/blob/main/Graphs/TRIsokineticDyna1.jpg">
