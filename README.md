@@ -1,2 +1,2 @@
-# BiomechanicsPortfolio
-Biomechanics and data science project portfolio
+# Steven Leigh
+Biomechanics and data science projects
