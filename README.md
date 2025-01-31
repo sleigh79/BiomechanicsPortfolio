@@ -11,7 +11,7 @@ Project overviews.
 2. What I did next
 3. What I did third
 
-https://sleigh79.github.io/BiomechanicsPortfolio/https://github.com/sleigh79/BiomechanicsPortfolio/blob/main/TRIsokineticDyna.pdf
+[TRIsokineticDyna](https://github.com/sleigh79/BiomechanicsPortfolio/blob/main/TRIsokineticDyna.pdf)
 
 ### Project 2. Baseball Analytics
 1. What I did
