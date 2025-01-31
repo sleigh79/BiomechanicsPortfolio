@@ -3,7 +3,7 @@
 I am a biomechanist
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-## Biomechanics and Data Science Projects
+## Biomechanics and data science projects
 Project overviews.
 
 ### Project 1. Basketball Court Positioning
