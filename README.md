@@ -1,5 +1,5 @@
-# Steven Leigh
-About me.
+# About me
+I am a biomechanist
 
 ![Headshot](https://github.com/sleigh79/BiomechanicsPortfolio/blob/main/FacultyHeadshot.jpg)
 
