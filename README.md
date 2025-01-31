@@ -2,7 +2,7 @@
 <img align="right" src="https://github.com/user-attachments/assets/c294fc01-3193-49e0-8d8f-46cc22b17b5d">
 I am a biomechanist <br />
 I am learning data science
-<br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 ## Biomechanics and data science projects
 Project overviews.
